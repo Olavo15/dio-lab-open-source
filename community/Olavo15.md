@@ -1,4 +1,3 @@
-
 # Olavo Regis
 Entusiasta da Tecnologia da Informação em constante evolução.
 Atualmente, estou aprofundando meus conhecimentos ao cursar Análise e Desenvolvimento de Sistemas, explorando a criação e implementação de soluções inovadoras de software. Comprometido com a aprendizagem contínua, busco aprimorar minhas habilidades em programação, design de banco de dados e desenvolvimento web. Aberto a desafios e sempre em busca de oportunidades para contribuir e aprender no mundo dinâmico da tecnologia.
